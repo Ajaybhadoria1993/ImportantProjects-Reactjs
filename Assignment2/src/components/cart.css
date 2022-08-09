@@ -1,0 +1,22 @@
+article {
+  margin-top: 50px;
+}
+article img {
+  height: 100px;
+}
+.cart-box {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px 200px;
+  border: 2px solid black;
+  height: 200px;
+  box-shadow: 8px 4px 0 0;
+}
+.place-order-btn {
+  background-color: maroon;
+  color: white;
+}
+.place-order-btn span {
+  color: white;
+}

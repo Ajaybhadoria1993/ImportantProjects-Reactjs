@@ -1,0 +1,58 @@
+{
+  "results": [
+    {
+      "name": "pizza",
+      "image": "",
+      "subItemData": {
+        "name": "Tasty Pizzas",
+        "subItems": [
+          {
+            "name": "Tomato Basil Italian pizza",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940648/TomatoBasilItalianPizza_sbdfsp.jpg",
+            "price": "450",
+            "description": "Dressed with oil,the origanum and garlic cloves"
+          },
+          {
+            "name": "Socilia Pizza",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940648/pizza-sicilia_abuw92.jpg",
+            "price": "450",
+            "description": "A thick base pizza with fresh tomato sauce,mushrooms,garlic,pickled onions"
+          },
+          {
+            "name": "Bombay Pizza",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940649/bombaypizza_yane9d.jpg",
+            "price": "550",
+            "description": "Spicy tomato sauce with Italian herbs,mushrooms onion,cottage cheese"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Burger",
+      "image": "image-url",
+      "subItemData": {
+        "name": "Crispy Burgers",
+        "subItems": [
+          {
+            "name": "Fried Chicken Burger",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940648/FriedChickenBurger_iqoxn3.jpg",
+            "price": "450",
+            "description": "Old School Chicken Burger"
+          },
+          {
+            "name": "Paneer Tikka Burger",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940648/PaneerTikkaBurger_hhrejp.jpg",
+            "price": "450",
+            "description": "Spicy Paneer, Onion, Tomato, Mozerella Cheese"
+          },
+          {
+            "name": "Chicken Classic Cheese Burger",
+            "image": "https://res.cloudinary.com/doozzvuap/image/upload/v1659940648/ChickenClassicCheeseBurger_xunvtt.jpg",
+            "price": "550",
+            "description": "Aged cheddar, sweet pickle, tomato, red onion"
+          }
+        ]
+      }
+    }
+  ]
+}

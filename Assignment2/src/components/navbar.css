@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content:center
+}
+
+.main-headingOnNav{
+    position: relative;
+}
+.cart-icon{
+  position: absolute; 
+  margin-right: -1342px;
+}

@@ -1,0 +1,24 @@
+.tasty-main{
+    background-color: darkcyan;
+    padding: 33px;
+    
+}
+.tasty-main img{
+    width: 200px;
+}
+.itembox{
+    width: 100%;
+  
+}
+.itemname{
+    margin-top: 2px;
+}
+.itemprice{
+    margin-top: 2px;
+}
+.itemdescription{
+margin-top: -16px;
+}
+.btnitem{
+    margin-top: -25px;
+}

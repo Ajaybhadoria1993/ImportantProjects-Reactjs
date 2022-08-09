@@ -1,0 +1,13 @@
+.mainitem,img{
+   padding:1px;
+    border: 0px;
+    border-radius: 50px; 
+   
+}
+.mainImageOfMainItem{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 5px;
+   
+}
